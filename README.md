@@ -61,4 +61,4 @@ Desenvolvido por [devzeckk](https://github.com/devzeckk).
 
 ---
 
-Feito com dedicação durante o curso de Tecnologia da Informação da EBAC.\n
+Feito com dedicação durante o curso de Tecnologia da Informação da EBAC.
